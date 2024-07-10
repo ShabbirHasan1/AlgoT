@@ -1,0 +1,10 @@
+{
+    "orderApiHeaders": {
+        "Content-Type": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiJETEw0OTk2Xzg5RTA2QjBCQjg0RUE5QjgxQzc1ODgiLCJwdWJsaWNLZXkiOiI4OWUwNmIwYmI4NGVhOWI4MWM3NTg4IiwiaWF0IjoxNzE5OTA0MDgxLCJleHAiOjE3MTk5OTA0ODF9.o9htGDBygaUyZN-QJukfGoW3yYzYuQ-gk6u2kP3VUqs"
+    },
+    "marketApiHeaders": {
+        "Content-Type": "application/json",
+        "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiJETEw0OTk2XzM2NDJhNDFjNTQ3ZWUxMDM5MjAyMDIiLCJwdWJsaWNLZXkiOiIzNjQyYTQxYzU0N2VlMTAzOTIwMjAyIiwiaWF0IjoxNzE5OTA0MDgxLCJleHAiOjE3MTk5OTA0ODF9.eUt4n4d-w6yYBFjXNaXpuzd09w3ZUwk3Uv3jj6Su7xQ"
+    }
+}
